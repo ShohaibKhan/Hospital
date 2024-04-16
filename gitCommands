@@ -1,0 +1,49 @@
+git clone "https://github.com/ShohaibKhan/Hospital"
+
+git branch
+ 1951  git commit -m "Added doctors"
+ 1952  git add .
+ 1953  git commit -m "Added two doctors"
+ 1954  git branch
+ 1955  git push
+ 1956  git branch main
+ 1957  git branch
+ 1958  git push --set-upstream origin main
+ 1959  git pull --rebase
+ 1960  git pull --rebase main
+ 1961  git brach
+ 1962  git checkout -b combine
+ 1963  git pull --rebase combine
+ 1964  git branch
+ 1965  git checkout main
+ 1966  git branch
+ 1967  git pull --rebase
+ 1968  git checkout -b assign1
+ 1969  git pull 
+ 1970  git pull --rebase assign1
+ 1971  git branch
+ 1972  git push
+ 1973  git push --set-upstream origin assign1
+ 1974  git add .
+ 1975  git commit -m "Assigned patients to doctors"
+ 1976  git push --set-upstream origin assign1
+ 1977  git branch
+ 1978  git checkout main
+ 1979  git pull --rebase
+ 1980  git branch
+ 1981  git checkout -b newDocs
+ 1982  git add .
+ 1983  git commit -m "Added two doctors"
+ 1984  git push 
+ 1985  git push --set-upstream origin newDocs
+ 1986  git checkout -b doc5
+ 1987  git checkout main
+ 1988  git branch
+ 1989  git pull
+ 1990  git checkout doc5 
+ 1991  git checkout main
+ 1992  git pull
+ 1993  git pull 
+ 1994  git branch
+ 1995  git checkout doc5
+ 1996  git checkout main
