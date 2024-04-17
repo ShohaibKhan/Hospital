@@ -1,3 +1,21 @@
+used commands:
+
+git clone
+git branch branchname
+git checkout
+git add .
+git commit -m
+git push origin branchname
+
+git pull --rebase
+git status
+git diff branchname
+
+making of PR's and merging to main
+
+History of commands:
+
+
 git clone "https://github.com/ShohaibKhan/Hospital"
 
 git branch
